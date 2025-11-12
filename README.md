@@ -13,7 +13,7 @@ Add the following URL as a content source: (will share when repo is ready)
 Aurora Builder will automatically fetch and update the content.
 What’s Included
 Circle of the Swiftness (Druid Subclass): You bond with a companion mount that fights and rides with you.
-** This subclass for monk was requested by one of my players, it's already on dandwiki so credit goes to whoever created it. Refer to --> [(https://www.worldanvil.com/w/alveris-enoc-the-traveler/a/druid3A-circle-of-swiftness-article)]
+** This subclass for monk was requested by one of my players, it's already on dandwiki so credit goes to whoever created it. Refer to --> "Fools Gold- Into the Bellowing Wilds" [(https://foolsgold.fun/)]
 Contribution
 This repository is maintained primarily for personal use. Contributions are welcome if they align with the goals of the project. To suggest new content or improvements:
 
