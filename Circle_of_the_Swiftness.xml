@@ -38,8 +38,8 @@
         </ul>
     </description>
   <sheet><description>
-        <br/>
         <ul>
+            <br>
             <li>
             <b>Allies:</b>
             Your mount is friendly to you and your companions,
@@ -191,5 +191,3 @@
   </description></sheet></element>
 
 </elements>
-
-
