@@ -40,19 +40,19 @@
   <sheet><description>
         <ul>
             <li><strong>Allies:
-            </strong>Your mount is friendly to you and your companions, and it has its own distinct personality.</li><br/>
+            </strong>Your mount is friendly to you and your companions, and it has its own distinct personality.</li>
             <li><strong>Initiative:
-            </strong>Shares your initiative count and takes its turn directly after yours</li><br/>
+            </strong>Shares your initiative count and takes its turn directly after yours</li>
             <li><strong>Combat Actions:
-            </strong>It can only take the Dodge action and move <strong>unless</strong> you use your bonus action to command it to take a different action, such as attacking, hiding, or interacting with an object.</li><br/>
+            </strong>It can only take the Dodge action and move <strong>unless</strong> you use your bonus action to command it to take a different action, such as attacking, hiding, or interacting with an object.</li>
             <li><strong>when you are incapacitated:
-            </strong>It can take any action of its choice, not just Dodge.</li><br/>
+            </strong>It can take any action of its choice, not just Dodge.</li>
             <li><strong>Movement:
-            </strong>As part of your movement each turn, you can spend half your movement speed to either mount or dismount your mount. While you are mounted, your companion mount acts on the same turn in initiative as you and can only move unless you direct it to take another action. You fall off your mount if you are incapacitated or knocked prone.</li><br/>
+            </strong>As part of your movement each turn, you can spend half your movement speed to either mount or dismount your mount. While you are mounted, your companion mount acts on the same turn in initiative as you and can only move unless you direct it to take another action. You fall off your mount if you are incapacitated or knocked prone.</li>
             <li><strong>Attack Redirection:
-            </strong>you can redirect any attacks made against your mount to target you instead, and you can use your reaction to grant your mount advantage on Strength and Dexterity saving throws. Your mount can make death saving throws.</li><br/>
+            </strong>you can redirect any attacks made against your mount to target you instead, and you can use your reaction to grant your mount advantage on Strength and Dexterity saving throws. Your mount can make death saving throws.</li>
             <li><strong>Mount Death:
-            </strong>If your mount dies, you can bond with a new companion mount by performing an eight-hour ritual to commune with the spirit of another beast. Mounts can also be resurrected using magic such as revivify or Resurrection</li><br/>
+            </strong>If your mount dies, you can bond with a new companion mount by performing an eight-hour ritual to commune with the spirit of another beast. Mounts can also be resurrected using magic such as revivify or Resurrection</li>
             <li><strong>Resurrection:
             </strong>Cant have more than one companion mount.If you form a bond with a new companion mount, your bond with your current companion mount is broken.</li>
         </ul>
@@ -73,11 +73,11 @@
   <sheet><description>
           <ul>
             <li><strong>Attack Properties:
-            </strong> Your companion mount’s attacks become magical for the purpose of overcoming resistance or immunity to nonmagical attacks and damage.</li><br/>
+            </strong> Your companion mount’s attacks become magical for the purpose of overcoming resistance or immunity to nonmagical attacks and damage.</li>
             <li><strong>Channel through Mount:
-            </strong>while you are within 100 feet of your companion mount, you gain the ability to channel any spells you cast through them, treating your mount as the point of origin for purposes of determining your spell’s range.</li><br/>
+            </strong>while you are within 100 feet of your companion mount, you gain the ability to channel any spells you cast through them, treating your mount as the point of origin for purposes of determining your spell’s range.</li>
             <li><strong>Self-Casts:
-            </strong>When you are affected by a spell with a range of self, as long as you are mounted on your companion mount, you are both targeted by the spell.</li><br/>
+            </strong>When you are affected by a spell with a range of self, as long as you are mounted on your companion mount, you are both targeted by the spell.</li>
         </ul>
   </description></sheet></element>
 
@@ -87,21 +87,21 @@
       <p>Choose one of the following traits to add to your companion mount’s stat block.</p>
         <ul>
             <li><strong>Bond of Brambles:
-            </strong> While the mount is within 5 feet of you and you are mounted on it or have assumed its form using Twin Beast Shape, terrain within 10 feet of your mount grows thick grasping brambles. Creatures hostile to you and your companions treat the brambles as difficult terrain and take 1d4 piercing damage for every 5 feet they travel within the brambles.</li><br/>
+            </strong> While the mount is within 5 feet of you and you are mounted on it or have assumed its form using Twin Beast Shape, terrain within 10 feet of your mount grows thick grasping brambles. Creatures hostile to you and your companions treat the brambles as difficult terrain and take 1d4 piercing damage for every 5 feet they travel within the brambles.</li>
             <li><strong>Swift Skies, Swift Seas:
-            </strong> Your mount gains either a flying or swimming speed of 50 feet. You also gain this fly or swim speed when using your Twin Beast Shape.</li><br/>
+            </strong> Your mount gains either a flying or swimming speed of 50 feet. You also gain this fly or swim speed when using your Twin Beast Shape.</li>
             <li><strong>Twin Tactics:
-            </strong> Your mount has advantage on attacks against creatures within 5 feet of you while you are mounted on it or have assumed its form using Twin Beast Shape. You have advantage on attacks made against creatures within 5 feet of your mount while you have assumed its form using Twin Beast Shape. Neither you nor your mount can use this feature if the other is incapacitated.</li><br/>
+            </strong> Your mount has advantage on attacks against creatures within 5 feet of you while you are mounted on it or have assumed its form using Twin Beast Shape. You have advantage on attacks made against creatures within 5 feet of your mount while you have assumed its form using Twin Beast Shape. Neither you nor your mount can use this feature if the other is incapacitated.</li>
         </ul>
     </description>
   <sheet><description>
         <ul>
             <li><strong>Bond of Brambles:
-            </strong> While the mount is within 5 feet of you and you are mounted on it or have assumed its form using Twin Beast Shape, terrain within 10 feet of your mount grows thick grasping brambles. Creatures hostile to you and your companions treat the brambles as difficult terrain and take 1d4 piercing damage for every 5 feet they travel within the brambles.</li><br/>
+            </strong> While the mount is within 5 feet of you and you are mounted on it or have assumed its form using Twin Beast Shape, terrain within 10 feet of your mount grows thick grasping brambles. Creatures hostile to you and your companions treat the brambles as difficult terrain and take 1d4 piercing damage for every 5 feet they travel within the brambles.</li>
             <li><strong>Swift Skies, Swift Seas:
-            </strong> Your mount gains either a flying or swimming speed of 50 feet. You also gain this fly or swim speed when using your Twin Beast Shape.</li><br/>
+            </strong> Your mount gains either a flying or swimming speed of 50 feet. You also gain this fly or swim speed when using your Twin Beast Shape.</li>
             <li><strong>Twin Tactics:
-            </strong> Your mount has advantage on attacks against creatures within 5 feet of you while you are mounted on it or have assumed its form using Twin Beast Shape. You have advantage on attacks made against creatures within 5 feet of your mount while you have assumed its form using Twin Beast Shape. Neither you nor your mount can use this feature if the other is incapacitated.</li><br/>
+            </strong> Your mount has advantage on attacks against creatures within 5 feet of you while you are mounted on it or have assumed its form using Twin Beast Shape. You have advantage on attacks made against creatures within 5 feet of your mount while you have assumed its form using Twin Beast Shape. Neither you nor your mount can use this feature if the other is incapacitated.</li>
         </ul>
   </description></sheet></element>
 
@@ -113,9 +113,9 @@
   <sheet><description>
         <ul>
             <li><strong>Telepathy:
-            </strong>While you are within 1 mile of each other, you can communicate telepathically with each other. </li><br/>
+            </strong>While you are within 1 mile of each other, you can communicate telepathically with each other. </li>
             <li><strong>Teleportation:
-            </strong>while your mount is within 600 feet of you, you can teleport onto its back or have it teleport to your side as a bonus action. Once you’ve used this ability, you can’t use it again until you finish a short or long rest.</li><br/>
+            </strong>while your mount is within 600 feet of you, you can teleport onto its back or have it teleport to your side as a bonus action. Once you’ve used this ability, you can’t use it again until you finish a short or long rest.</li>
         </ul>
   </description></sheet></element>
 
