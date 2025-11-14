@@ -38,51 +38,15 @@
         </ul>
     </description>
   <sheet><description>
-        <ul>
-            <br></br>
-            <li>
-            <b>Allies:</b>
-            Your mount is friendly to you and your companions,
-            and it has its own distinct personality.</li>
-            <li>
-            <b>Initiative:</b>
-            Shares your initiative count and takes its turn
-            directly after yours</li>
-            <li>
-            <b>Combat Actions:</b>
-            It can only take the Dodge action and move unless
-            you use your bonus action to command it to take a
-            different action, such as attacking, hiding, or
-            interacting with an object.</li>
-            <li>
-            <b>When you are incapacitated:</b>
-            It can take any action of its choice, not just Dodge.</li>
-            <li>
-            <b>Movement:</b>
-            As part of your movement each turn, you can spend half
-            your movement speed to either mount or dismount your
-            mount. While you are mounted, your companion mount acts
-            on the same turn in initiative as you and can only move
-            unless you direct it to take another action. You fall
-            off your mount if you are incapacitated or knocked prone.</li>
-            <li>
-            <b>Attack Redirection:</b>
-            you can redirect any attacks made against your mount to
-            target you instead, and you can use your reaction to grant
-            your mount advantage on Strength and Dexterity saving
-            throws. Your mount can make death saving throws.</li>
-            <li>
-            <b>Mount Death:</b>
-            If your mount dies, you can bond with a new companion mount
-            by performing an eight-hour ritual to commune with the spirit
-            of another beast. Mounts can also be resurrected using magic
-            such as revivify or Resurrection</li>
-            <li>
-            <b>Resurrection:</b>
-            Cant have more than one companion mount.If you form a bond
-            with a new companion mount, your bond with your current 
-            companion mount is broken.</li>
-        </ul>
+			<p>You form a bond with a wild beast that becomes your companion mount</p>
+			<p class="indent"><strong><em>Allies.</em></strong> Your mount is friendly to you and your companions, and it has its own distinct personality.</p>
+			<p class="indent"><strong><em>Initiative.</em></strong> Shares your initiative count and takes its turn directly after yours.</p>
+			<p class="indent"><strong><em>Combat Actions.</em></strong> It can only take the Dodge action and move unless you use your bonus action to command it to take a different action, such as attacking, hiding, or interacting with an object.</p>
+			<p class="indent"><strong><em>Incapacitation.</em></strong> It can take any action of its choice, not just Dodge.</p>
+			<p class="indent"><strong><em>Movement.</em></strong> As part of your movement each turn, you can spend half your movement speed to either mount or dismount your mount. While you are mounted, your companion mount acts on the same turn in initiative as you and can only move unless you direct it to take another action. You fall off your mount if you are incapacitated or knocked prone.</p>
+			<p class="indent"><strong><em>Attack Redirection.</em></strong> you can redirect any attacks made against your mount to target you instead, and you can use your reaction to grant your mount advantage on Strength and Dexterity saving throws. Your mount can make death saving throws.</p>
+      <p class="indent"><strong><em>Mount Death.</em></strong> If your mount dies, you can bond with a new companion mount by performing an eight-hour ritual to commune with the spirit of another beast. Mounts can also be resurrected using magic such as revivify or Resurrection.</p>
+      <p class="indent"><strong><em>Resurrection.</em></strong> Cant have more than one companion mount.If you form a bond with a new companion mount, your bond with your current companion mount is broken.</p>
   </description></sheet></element>
 
   <element name="Twin Beast Shape" type="Archetype Feature" source="Homebrew: Fools Gold" id="ID_HOMEBREW_FEATURE_TWIN_BEAST_SHAPE">
