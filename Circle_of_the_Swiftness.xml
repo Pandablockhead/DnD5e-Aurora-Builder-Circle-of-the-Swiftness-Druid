@@ -28,6 +28,7 @@
 
   <element name="Companion Mount" type="Archetype Feature" source="Homebrew: Fools Gold" id="ID_HOMEBREW_FEATURE_COMPANION_MOUNT">
     <description>
+      <p><em>2nd-level Companion Mount feature</em></p>
 			<p>You form a bond with a wild beast that becomes your companion mount</p>
 			<p class="indent"><strong><em>Allies.</em></strong> Your mount is friendly to you and your companions, and it has its own distinct personality.</p>
 			<p class="indent"><strong><em>Initiative.</em></strong> Shares your initiative count and takes its turn directly after yours.</p>
