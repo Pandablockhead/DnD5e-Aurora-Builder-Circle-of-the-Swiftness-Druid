@@ -46,7 +46,8 @@
           <p>You form a bond with a wild beast that becomes your companion mount.</p>
           <p>The Mount has the following features:</p>
     			<ul>
-              <li>Allies - Your mount is friendly to you and your companions, and it has its own distinct personality
+              <li>
+              Allies - Your mount is friendly to you and your companions, and it has its own distinct personality
               </li>
               <li>Initiative - Shares your initiative count and takes its turn directly after yours
               </li>
@@ -88,9 +89,13 @@
           <p>Your magic flows through your companion like a raging river.</p>
           <p>Gain following features:</p>
     			<ul>
-              <li>Attack Properties - mount attacks are magical to overcome resistances and immunities</li>
-              <li>Channel through Mount - if within of 100 feet range of mount you can cast spells from their location</li>
-              <li>Self-Casts - if you are affected by a spell with range of self, both the mount and yourself get targeted</li>
+              <li>
+              Attack Properties - mount attacks are magical to overcome resistances and immunities
+              </li>
+              <li>Channel through Mount - if within of 100 feet range of mount you can cast spells from their location
+              </li>
+              <li>Self-Casts - if you are affected by a spell with range of self, both the mount and yourself get targeted
+              </li>
           </ul>
   </description></sheet></element>
 
@@ -108,9 +113,13 @@
           <p>You and your companion mount learn new secrets from nature.</p>
           <p>Choose one of the following traits to add to your companion mount’s stat block:</p>
   			  <ul>
-              <li>Bond of Brambles - if mounted or twin shaped change terrain in 10 feet radius enemies take 1d4 piercing dmg for each 5 feet they move in the terrain</li>
-              <li>Swift Skies, Swift Seas - mount and you, if twin shaped, gain either flying or swimming speed of 50 feet</li>
-              <li>Twin Tactics - if mounted or twin shaped and in less than 5 feet distance to mount it gains advantage on attacks, you gain this bonus aswell when youre twin shaped. if either of you is incapacitated it doesnt work</li>
+              <li>
+              Bond of Brambles - if mounted or twin shaped change terrain in 10 feet radius enemies take 1d4 piercing dmg for each 5 feet they move in the terrain
+              </li>
+              <li>Swift Skies, Swift Seas - mount and you, if twin shaped, gain either flying or swimming speed of 50 feet
+              </li>
+              <li>Twin Tactics - if mounted or twin shaped and in less than 5 feet distance to mount it gains advantage on attacks, you gain this bonus aswell when youre twin shaped. if either of you is incapacitated it doesnt work
+              </li>
           </ul>
   </description></sheet></element>
 
@@ -127,8 +136,11 @@
           <p>The bond between you and your mount is exceptionally strong, intertwining your souls.</p>
           <p>Gain the following features:</p>
           <ul>
-              <li>Telepathy - telepathic communication within 1 mile radius</li>
-              <li>Teleportation - Bonus action: teleport onto mountback / teleport mount to your side as if within 600 feet range</li>
+              <li>
+              Telepathy - telepathic communication within 1 mile radius
+              </li>
+              <li>Teleportation - Bonus action: teleport onto mountback / teleport mount to your side as if within 600 feet range
+              </li>
           </ul>
   </description></sheet></element>
 </elements>
