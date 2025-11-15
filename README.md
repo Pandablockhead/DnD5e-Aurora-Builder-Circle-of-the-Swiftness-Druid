@@ -1,6 +1,7 @@
 Homebrew additions to Aurora Builder.
 
 Credits: Aurora Builder was created by Bas Driessen. This repository is a collection of homebrew content meant for personal use and extension of the Aurora Builder application.
+        i took inspiration from Daeronth - https://github.com/Daeronth/DnD5e-Aurora-Builder/blob/main/fire_elementalist.xml
 
 About
 This repository contains custom homebrew content for use with Aurora Builder, a digital character builder for Dungeons & Dragons 5th Edition. The content here includes custom subclasses, features, and more, formatted as XML files compatible with Aurora Builder.
